@@ -34,4 +34,4 @@ web-hack_club/
 
 ## deploy
 
-it's a static site, so anything works: GitHub Pages, Netlify, Vercel, or Cloudflare Pages. point it at the repo root and you're done.
+it's a static site, so anything works: GitHub Pages or Vercel. point it at the repo root and you're done.
